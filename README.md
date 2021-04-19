@@ -1,7 +1,7 @@
 # CircuitPlay
-![Screenshot 1](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Header.PNG)
+![Header](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Header.PNG)
 ## Introduction
-Hello, welcome to my submission for WWDC21 Swift Student Challenge, CircuitPlay! CircuitPlay is an interactive sandbox experience that allows you to design, setup, and simulate circuit. CircuitPlay is written in Swift and built with SwiftUI, Accelerate, ARKit, and RealityKit. The showcase video can be found [here](https://youtu.be/pm3mlDZJSes).
+Hello, welcome to Jose Adolfo Talactac's submission for WWDC21 Swift Student Challenge, CircuitPlay! CircuitPlay is an interactive sandbox experience that allows you to design, setup, and simulate circuit. CircuitPlay is written in Swift and built with SwiftUI, Accelerate, ARKit, and RealityKit. The showcase video can be found [here](https://youtu.be/pm3mlDZJSes).
 
       
 ## User Interface
@@ -19,7 +19,7 @@ The A matrix is sparse, meaning, there are zeroes that are present in the matrix
 Using the SparseSolve methods, the node voltages and voltage source currents are solved. Using Kirchoff’s Current Law and Ohm’s Law, the voltage and current across the different components are determined. For time-domain components like capacitors and inductors, a linearized companion model are utilized and backwards Euler’s method is performed to determine the equivalent values of the companion model at time step n+1. 
 
 ## Augmented Reality
-CircuitPlay also provides an option to view the circuit in augmented reality. This AR portion is powered by ARKit and RealityKit. RealityKit allowed CircuitPlay to display 3D models with such high performance. I also used Focus Entity, an open-source Swift Package, to easily communicate surface detection to the user. Just like my WWDC2020 submission LearnWithAR, CircuitPlay also proves that augmented reality will have important role in the STEM education space in the future.
+CircuitPlay also provides an option to view the circuit in augmented reality. This AR portion is powered by ARKit and RealityKit. RealityKit allowed CircuitPlay to display 3D models with such high performance. It uses Focus Entity, an open-source Swift Package, to easily communicate surface detection to the user. Just like Jose Adolfo's WWDC2020 submission LearnWithAR, CircuitPlay further proves that augmented reality will have a significant role in the STEM education space in the future.
 
 ## Credits    
 
