@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>CircuitPlay</string>
+	<key>Pages</key>
+	<array>
+		<string>Introduction.playgroundpage</string>
+		<string>Ohm&apos;s Law.playgroundpage</string>
+		<string>Series Circuits.playgroundpage</string>
+		<string>Parallel Circuits.playgroundpage</string>
+		<string>Capacitance.playgroundpage</string>
+		<string>Inductance.playgroundpage</string>
+		<string>Sandbox.playgroundpage</string>
+	</array>
+</dict>
+</plist>
