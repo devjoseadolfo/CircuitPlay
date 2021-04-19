@@ -5,7 +5,7 @@ Hello, welcome to Jose Adolfo Talactac's submission for WWDC21 Swift Student 
 
       
 ## User Interface
-Existing circuit simulators on the market today have cluttered and outdated user interface. For students who are new to circuit theory, they may find these simulators daunting and overwhelming. CircuitPlay aims to fill the need for a simple and intuitive circuit simulator. CircuitPlay is a program with touch input in mind. The fluidity of its user interface is thanks to versatility that SwiftUI provides. 
+Existing circuit simulators on the market today have cluttered and outdated user interface. For students who are new to circuit theory, they may find these simulators daunting and overwhelming. CircuitPlay aims to fill the need for a simple and intuitive circuit simulator. CircuitPlay has a user interface with touch input in mind. The fluidity of its UI is thanks to versatility and power that SwiftUI provides. 
 
 CircuitPlay has three stages: Design, Setup, and Solve. In the Design stage, the user is presented with a grid and dock. The user can pick any component from the dock and drop it to a slot in the grid. Tapping a slot will show controls to rotate or delete the component. The Setup stage allows the user to change a component’s value by showing a popover prompt when the measurement is tapped.
 
