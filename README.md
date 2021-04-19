@@ -10,7 +10,7 @@ Existing circuit simulators on the market today have cluttered and outdated user
 CircuitPlay has three stages: Design, Setup, and Solve. In the Design stage, the user is presented with a grid and dock. The user can pick any component from the dock and drop it to a slot in the grid. Tapping a slot will show controls to rotate or delete the component. The Setup stage allows the user to change a component’s value by showing a popover prompt when the measurement is tapped.
 
 ## Circuit Solving Algorithm
-In the Solve stage, CircuitPlay uses its circuit solving algorithm. CircuitPlay first determines the nodes present in the circuit through recursion and matches the appropriate model for each circuit component. These nodes and models are the make up the circuit network.
+In the Solve stage, CircuitPlay uses its circuit solving algorithm. CircuitPlay first determines the nodes present in the circuit through recursion and matches the appropriate model for each circuit component. These nodes and models are the main parts of the circuit network.
 
 Afterwards, CircuitPlay uses the modified nodal analysis (MNA) method, where the *A* matrix and *b* vector are formed. The *A* matrix describes the conductance between each node and the connections between voltage sources and each node. The *b* vector includes the known values, which are the current across nodes and the voltage sources values. Solving the *x* vector in `Ax = b` will provide the node voltages and the current across voltage sources. 
 
