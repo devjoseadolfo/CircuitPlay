@@ -28,3 +28,8 @@ CircuitPlay also provides an option to view the circuit in augmented reality. Th
  - [Focus Entity](https://github.com/maxxfrazer/FocusEntity) Swift Package by Max Cobb is used in the augmented reality component of the Playground for placing the model entity in the view. The package is used under the [MIT license](https://github.com/maxxfrazer/FocusEntity/blob/main/LICENSE).
 
 ## Screenshots
+![Screenshot 1](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Screenshot-1.PNG)
+![Screenshot 2](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Screenshot-2.PNG)
+![Screenshot 3](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Screenshot-3.PNG)
+![Screenshot 4](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Screenshot-4.PNG)
+![Screenshot 5](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Screenshot-5.PNG)
