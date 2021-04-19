@@ -19,7 +19,7 @@ The A matrix is sparse, meaning, there are zeroes that are present in the matrix
 Using the SparseSolve methods, the node voltages and voltage source currents are solved. Using Kirchoff’s Current Law and Ohm’s Law, the voltage and current across the different components are determined. For time-domain components like capacitors and inductors, a linearized companion model are utilized and backwards Euler’s method is performed to determine the equivalent values of the companion model at time step n+1. 
 
 ## Augmented Reality
-CircuitPlay also provides an option to view the circuit in augmented reality. This AR portion is powered by ARKit and RealityKit. RealityKit allowed CircuitPlay to display 3D models with such high performance. It uses Focus Entity, an open-source Swift Package, to easily communicate surface detection to the user. Just like Jose Adolfo's WWDC2020 submission LearnWithAR, CircuitPlay further proves that augmented reality will have a significant role in the STEM education space in the future.
+CircuitPlay also provides an option to view the circuit in augmented reality. This AR portion is powered by ARKit and RealityKit. RealityKit allowed CircuitPlay to display 3D models with such high performance. It uses Focus Entity, an open-source Swift Package, to easily communicate surface detection to the user. Just like Jose Adolfo's WWDC2020 submission [LearnWithAR](https://github.com/devjoseadolfo/LearnWithAR), CircuitPlay further proves that augmented reality will have a significant role in the STEM education space in the future.
 
 ## Credits    
 
