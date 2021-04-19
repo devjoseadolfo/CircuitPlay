@@ -1,5 +1,5 @@
 # CircuitPlay
-
+![Screenshot 1](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Header.PNG)
 ## Introduction
 Hello, welcome to my submission for WWDC21 Swift Student Challenge, CircuitPlay! CircuitPlay is an interactive sandbox experience that allows you to design, setup, and simulate circuit. CircuitPlay is written in Swift and built with SwiftUI, Accelerate, ARKit, and RealityKit. The showcase video can be found [here](https://youtu.be/pm3mlDZJSes).
 
