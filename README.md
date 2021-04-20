@@ -24,8 +24,9 @@ CircuitPlay also provides an option to view the circuit in augmented reality. Th
 ## Credits    
 
  - [Barlow font](https://github.com/jpt/barlow) designed by Jeremy Tribby found in the Playground thumbnail and the images in each PlaygroundPage is used under the [Open Font License](https://github.com/jpt/barlow/blob/main/OFL.txt).
- - San Francisco font found in the Playground’s interface is accessed as part of iPadOS’ system fonts and used fairly within the license set by Apple Inc. for the development of software for Apple platforms.
+ - San Francisco font and SF Symbols icons found in the Playground’s interface is accessed as part of iPadOS’ system fonts and used fairly within the license set by Apple Inc. for the development of software for Apple platforms.
  - [Focus Entity](https://github.com/maxxfrazer/FocusEntity) Swift Package by Max Cobb is used in the augmented reality component of the Playground for placing the model entity in the view. The package is used under the [MIT license](https://github.com/maxxfrazer/FocusEntity/blob/main/LICENSE).
+ - All assets that aren’t attributed to another party are made by the creator of this Playground, Jose Adolfo Talactac. These include the instructional text and images, 2D UI icons, and 3D USDZ models.
 
 ## Screenshots
 ![Screenshot 1](https://github.com/devjoseadolfo/CircuitPlay/blob/main/Screenshots/Screenshot-1.PNG)
